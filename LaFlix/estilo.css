@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(126, 126, 224);
+    color: black;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+#meio div{
+    background-color: rgb(209, 176, 236);
+    display: inline-block;
+    width: 200px;
+    height: 250px;
+    margin: 5px;
+}
+
+#topo{
+    height: 50px;
+}
+
+
+#meio{
+    height: 400px;
+    background-color: white;
+   
+}
+
+#rodape{
+    height: 300px;
+}
+
+li{
+     display: inline-block;
+     width: 100px;
+     padding: 10px;
+}
+
+#navegacao{
+    background-color: rgb(190, 141, 230);
+}
